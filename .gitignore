@@ -1,0 +1,6 @@
+DynamoDBLocal.jar
+DynamoDBLocal_lib
+third_party_licenses
+LICENSE.txt
+README.txt
+*.db
